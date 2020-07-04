@@ -30,6 +30,7 @@ export const createStream = (formValues) => {
 			...formValues,
 			userId,
 		});
+		console.log(response);
 		dispatch({ type: CREATE_STREAM, payload: response.data });
 		history.push('/');
 	};
