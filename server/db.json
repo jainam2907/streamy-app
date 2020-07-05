@@ -1,38 +1,32 @@
 {
-  "streams": [
-    {
-      "title": "Stream1",
-      "description": "Great stream!",
-      "id": 1
-    },
-    {
-      "title": "Stream2",
-      "description": "Incredible stream!",
-      "id": 2
-    },
-    {
-      "title": "Stream3",
-      "description": "Awesome Stream created by JC!",
-      "userId": "104723919908584050745",
-      "id": 3
-    },
-    {
-      "title": "Stream5",
-      "description": "Created by me!!!",
-      "userId": "104723919908584050745",
-      "id": 5
-    },
-    {
-      "title": "WSDKM",
-      "description": "ASKJN",
-      "userId": "104723919908584050745",
-      "id": 6
-    },
-    {
-      "title": "WDJB",
-      "description": "KJWDBQ",
-      "userId": "104723919908584050745",
-      "id": 7
-    }
-  ]
+	"streams": [
+		{
+			"title": "Stream1",
+			"description": "Great stream!",
+			"id": 1
+		},
+		{
+			"title": "Stream2",
+			"description": "Incredible stream!",
+			"id": 2
+		},
+		{
+			"title": "Stream3",
+			"description": "Awesome Stream created by JC!",
+			"userId": "104723919908584050745",
+			"id": 3
+		},
+		{
+			"title": "Stream5",
+			"description": "Created by me!!!",
+			"userId": "104723919908584050745",
+			"id": 5
+		},
+		{
+			"title": "WSDKM",
+			"description": "ASKJN",
+			"userId": "104723919908584050745",
+			"id": 6
+		}
+	]
 }
